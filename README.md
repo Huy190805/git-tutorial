@@ -3,7 +3,7 @@
 
 
 ```sh
-Cách để đồng bộ file từ trên respo xuống local
+git tutorial
 
 1. open git bash
 2. cd ~/Desktop
